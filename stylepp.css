@@ -1,0 +1,98 @@
+.s{
+	background-color : powderblue; 
+} 
+h1 {
+color: blue;
+padding: 5px;
+text-align: center;
+}
+nav {
+background-color:lightgray;
+color: blue;
+padding: 20px;
+}
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+nav ul li {
+display: inline;
+margin-right: 50px;
+} 
+.n 
+{ margin-left:50px; } 
+.j{  
+font-size : 40px; padding-left : 70px;
+} 
+.k{  
+font-size : 20px; 
+padding-left : 70px;
+}  
+.rp {  
+background-image : url('e.png');
+margin-left :  300px;
+ margin-top : 30px;
+ margin-bottom : 30px;
+height:300px;
+width:250px;
+border-radius : 50% } 
+
+.sa{
+background-color:powderblue;
+margin-left: 100px;
+ height : 600px;
+width : 1000px;  
+border-radius: 10%
+}   
+.a{ 
+font-size : 30px;  
+padding-top :25px;
+}  
+.p {  
+background-image : url('e1.png');
+margin-left :  300px;
+ margin-top : 0px;
+ margin-bottom : 0px;
+height:300px;
+width:300px;
+border-radius : 50% } 
+.q
+{ padding-left:50px; }  
+.eq {  
+background-color :lightgray;
+padding-left:30px;
+ height : 600px;
+width : 500px;  
+border-radius: 10% } 
+.we {  
+background-color :lightgray; 
+padding-left:100px; 
+height : 600px;
+width : 500px;  
+border-radius: 10% 
+} 
+.skill { 
+padding-right : 45px; 
+
+} 
+.skill li { 
+list-style : none ;
+margin : 30px 10px ;
+position : relative;
+} 
+.cn{ 
+padding : 15px 70px; 
+}
+footer {
+background-color: lightgray;
+padding: 10px;
+text-align: center;  }
+.jn{  
+font-size : 25px; padding-left : 50px;
+} 
+.jp{  
+font-size : 15px; padding-left : 30px;
+} 
